@@ -94,6 +94,3 @@ void load_students(struct student **head)
 }
 
  
-
-                                                                               93,0-1        94%
-                                                                          47,1           2%
